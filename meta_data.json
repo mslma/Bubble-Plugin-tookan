@@ -3,11 +3,13 @@
         "0": "location",
         "1": "small business"
     },
+    "data_tracked": false,
     "description": "Tookan is an easy way to manage and track field workforce for on demand deliveries, at-home services and on-street customer acquisition.",
     "image": "//s3.amazonaws.com/appforest_uf/f1527453187652x230615085456520320/tookan_A9_EWa6x_400x400.jpg",
     "instructions": "1- Create tookan account tookanapp.com\n2- You can get a key from settings (Login>Menu>Settings>API Keys) in your tookan account\n\nLearn more about tookan API https://tookanapi.docs.apiary.io/#reference/task",
     "license": "open_source",
     "link": "https://tookanapi.docs.apiary.io",
     "name": "tookan",
-    "plugin_instructions": "1- Create tookan account tookanapp.com\n2- You can get a key from settings (Login>Menu>Settings>API Keys) in your tookan account\n\nLearn more about tookan API https://tookanapi.docs.apiary.io/#reference/task"
+    "plugin_instructions": "1- Create tookan account tookanapp.com\n2- You can get a key from settings (Login>Menu>Settings>API Keys) in your tookan account\n\nLearn more about tookan API https://tookanapi.docs.apiary.io/#reference/task",
+    "sa_node_version": 18
 }
