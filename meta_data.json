@@ -3,11 +3,13 @@
         "0": "location",
         "1": "small business"
     },
+    "data_tracked": false,
     "description": "Dispatch and track a field workforce from your Bubble app. Tookan is a delivery and field-service management platform for on-demand deliveries, at-home services and on-street customer acquisition. This plugin lets your app create the jobs and read their progress, so an order placed in Bubble becomes a task in a driver's or technician's hands without anyone re-keying it.\n\nKey Features:\n📝 Create Tasks: Turn an order, booking or service request into a Tookan task straight from a workflow, complete with addresses, timing and customer details.\n\n📍 Track Progress: Retrieve task details to show live status, assigned agent and delivery information inside your own app.\n\n🚗 Built for the Field: Designed around real dispatch work — deliveries, home services and on-street acquisition.\n\n🔑 Simple Setup: One Tookan API key in the plugin settings connects your account.\n\nPlugin support: https://inova.us/support",
     "image": "//s3.amazonaws.com/appforest_uf/f1527453187652x230615085456520320/tookan_A9_EWa6x_400x400.jpg",
     "instructions": "1- Create tookan account tookanapp.com\n2- You can get a key from settings (Login>Menu>Settings>API Keys) in your tookan account\n\nLearn more about tookan API https://tookanapi.docs.apiary.io/#reference/task",
     "license": "open_source",
     "link": "https://tookanapi.docs.apiary.io",
     "name": "tookan",
-    "plugin_instructions": "1- Create tookan account tookanapp.com\n2- You can get a key from settings (Login>Menu>Settings>API Keys) in your tookan account\n\nLearn more about tookan API https://tookanapi.docs.apiary.io/#reference/task"
+    "plugin_instructions": "1- Create tookan account tookanapp.com\n2- You can get a key from settings (Login>Menu>Settings>API Keys) in your tookan account\n\nLearn more about tookan API https://tookanapi.docs.apiary.io/#reference/task",
+    "sa_node_version": 18
 }
